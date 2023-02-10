@@ -1,4 +1,4 @@
-tement: dictionary is pair of key and a value. now we want to delete unnecessary pairs from the dictionary.
+# Problem Statement: dictionary is pair of key and a value. now we want to delete unnecessary pairs from the dictionary.
 #
 # Sample Input 0: 
 #         a 10 b 20 c 30
