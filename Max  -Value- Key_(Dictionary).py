@@ -1,3 +1,4 @@
+
 # Problem Statement: To find the key index of max value of a dictionary (Dictionary)
 #
 # Sample Input 0: maths 85 science 35 social 45
